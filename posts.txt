@@ -2,4 +2,5 @@ public static void main(){
 	posts
 	string name = "git";
 	syst(name);
+System.out.println("new")
 }
